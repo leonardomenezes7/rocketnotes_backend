@@ -1,5 +1,4 @@
 const path = require("path");
-const connection = require("./src/database/knex");
 
 module.exports = {
   development: {
