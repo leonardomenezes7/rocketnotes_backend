@@ -6,7 +6,8 @@ Here is a description of the API developed in Node.js:
 The API is designed to provide functionality for managing users, notes, and tags, allowing the creation, and deletion of notes, as well as the association of links and tags with those notes. Additionally, the API offers user authentication using JWT tokens to ensure the security of operations.
 
 ## 🧱Structure
-![Client](https://github.com/leonardomenezes7/API-node/assets/145611761/18755b2a-ea53-414e-8eb2-01814de501e1)
+![Client (1)](https://github.com/leonardomenezes7/API-node/assets/145611761/37dd5d91-ecf0-4f61-bed2-323b931a4bbe)
+
 
 
 ## ➡️Key features:
