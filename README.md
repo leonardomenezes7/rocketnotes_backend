@@ -31,7 +31,6 @@ The API is designed to provide functionality for managing users, notes, and tags
 - Node.js
 - SQLite
 - Express.js
-- Axios
 - JWT
 - knex.js
 - bcrypt
