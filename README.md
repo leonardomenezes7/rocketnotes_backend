@@ -34,7 +34,6 @@ The API is designed to provide functionality for managing users, notes, and tags
 - JWT
 - knex.js
 - bcrypt
-- cors
 - Multer
 
 ## 💾Database Structure
