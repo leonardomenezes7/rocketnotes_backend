@@ -35,6 +35,7 @@ The API is designed to provide functionality for managing users, notes, and tags
 - knex.js
 - bcrypt
 - Multer
+- cors
 
 ## 💾Database Structure
 ![rocket_notes_db](https://github.com/leonardomenezes7/API-node/assets/145611761/c768c4c2-e816-46e3-b702-9905e7eae68f)
